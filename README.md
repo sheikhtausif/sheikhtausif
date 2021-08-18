@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/executive_error" target="blank"><img src="https://img.shields.io/twitter/follow/executive_error?logo=twitter&style=for-the-badge" alt="executive_error" /></a> </p>
 
-- 🌱 I’m currently learning **Testing with React-Js**
+- 🌱 I’m currently learning **MERN-STACK**
 
-- 💬 Ask me about **React-Js, Redux, JavaScript and Data structure and Algorithme**
+- 💬 Ask me about **React-Js, Redux, JavaScript, and Data Structure and Algorithme**
 
 - 📫 How to reach me **mohdtausif411@gmail.com**
 
