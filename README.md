@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Tausif</h1>
 <h3 align="center">I'm a proficient web developer with a huge interest in React-Js.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhtausif&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhtausif" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikhtausif" alt="sheikhtausif" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/executive_error" target="blank"><img src="https://img.shields.io/twitter/follow/executive_error?logo=twitter&style=for-the-badge" alt="executive_error" /></a> </p>
-
-- 🌱 I’m currently learning **Testing with React-Js**
+- 🌱 I’m currently learning **MERN_STACK**
 
 - 💬 Ask me about **React-Js, Redux, JavaScript and Data structure and Algorithme**
 
