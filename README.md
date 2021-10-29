@@ -8,7 +8,7 @@
 
 <p align="center"><a href="https://twitter.com/executive_error" target="blank"><img src="https://img.shields.io/twitter/follow/executive_error?logo=twitter&style=for-the-badge" alt="executive_error" /></a></p>
 
-<h3 align="center">Support:</h3>
+<!-- <h3 align="center">Support:</h3> -->
 <p align="center"><a href="https://www.buymeacoffee.com/mohdtausif"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="https://www.buymeacoffee.com/mohdtausif" /></a></p>
 
 ### Skilled In 
