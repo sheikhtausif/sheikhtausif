@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohd Tausif</h1>
 <h3 align="center">I'm a proficient Full-Stack Web Developer with a huge interest in JavaScript.</h3>
 
-<div align="center">
+<!-- <div align="center">
 🌱 I’m currently learning <strong>MERN-STACK</strong>
-</div>
+</div> -->
 <h3 align="center">Thanks for visit! &nbsp; <img src="https://komarev.com/ghpvc/?username=sheikhtausif&label=Profile%20views&color=0e75b6&style=flat"alt="sheikhtausif" /></img></h3>
 
 <p align="center"><a href="https://twitter.com/executive_error" target="blank"><img src="https://img.shields.io/twitter/follow/executive_error?logo=twitter&style=for-the-badge" alt="executive_error" /></a></p>
+
+<h3 align="center">Support:</h3>
+<p align="center"><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/mohdtausif"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="https://www.buymeacoffee.com/mohdtausif" /></a></p>
 
 ### Skilled In 
 [![HTML Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange)](#)  &nbsp; [![CSS Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue)](#) &nbsp; [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  &nbsp; [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) &nbsp; [![Redux Badge](https://img.shields.io/badge/-Redux-007acc?style=for-the-badge&labelColor=black&logo=redux&logoColor=007acc)](#) &nbsp; [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-609857?style=for-the-badge&labelColor=black&logo=node.js&logoColor=609857)](#) &nbsp; [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-409142?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=409142)](#) &nbsp; ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&labelColor=black&logo=express&logoColor=%2361DAFB) &nbsp; ![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&labelColor=black&logo=material-ui&logoColor=white) &nbsp; ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=white) &nbsp; ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&labelColor=black&logo=git&logoColor=white)
