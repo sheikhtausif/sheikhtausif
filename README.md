@@ -22,4 +22,3 @@
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&labelColor=black&logo=Twitter&logoColor=white)](https://twitter.com/executive_error) -->
 
 <a href="https://github.com/sheikhtausif/github-readme-activity-graph"><img alt="Tausif's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sheikhtausif&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
