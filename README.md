@@ -18,7 +18,7 @@
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) &nbsp; 
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4DB33D)](#) &nbsp; 
 ![Express.js](https://img.shields.io/badge/express.js-303030.svg?style=for-the-badge&labelColor=black&logo=express&logoColor=303030) &nbsp; 
-![Material UI](https://img.shields.io/badge/materialui-00B0FF.svg?style=for-the-badge&labelColor=black&logo=material-ui&logoColor=00B0FF) &nbsp; 
+![Material-UI](https://img.shields.io/badge/materialui-00B0FF.svg?style=for-the-badge&labelColor=black&logo=materialui&logoColor=00B0FF) &nbsp; 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-602C50.svg?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=602C50) &nbsp; 
 ![Git](https://img.shields.io/badge/git-F1502F.svg?style=for-the-badge&labelColor=black&logo=git&logoColor=F1502F)
 
